@@ -35,3 +35,8 @@ Clone the repository.
 Add your OpenWeatherMap API key in MainActivity.kt variable apiKey.
 
 Sync Gradle and Run.
+
+
+![Screenshot 2025-11-28 131122](https://github.com/user-attachments/assets/7c59eda1-a568-4374-9ba8-eb08f8032135)
+![Screenshot 2025-11-28 131139](https://github.com/user-attachments/assets/e4b1cfd8-6393-44bd-bb3a-91c3fa2900d8)
+
